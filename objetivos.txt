@@ -2,3 +2,4 @@ Objetivos:
 
     -   Adquirir una muy buena base en CSS y HTML
     - Aprender JavaScript y tener una buena base para estudiar otros lenguajes de programación
+    - Adquirir muy buenos conocimientos en Angular 
